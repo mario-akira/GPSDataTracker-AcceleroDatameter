@@ -1,5 +1,5 @@
 # GPSDataTracker-AcceleroDatameter
-O objetivo deste projeto foi implementar em um Raspberry pi 1 um sistema para leitura e armazenamento dos dados de sensores de gps e aceleração. Em seguida, com os dados em mãos, seriam separados os dados volta a volta do treino e da corrida para fazer a análise de como melhorar o rendimento do piloto.
+O objetivo deste projeto foi implementar em um Raspberry pi 1 um sistema para leitura e armazenamento dos dados de sensores de gps e aceleração. Em seguida, com os dados em mãos, seriam separados os dados volta a volta do treino e da corrida para fazer a análise de como melhorar o rendimento do piloto. 
 
 
 ![0](https://github.com/mario-akira/GPSDataTracker-AcceleroDatameter/assets/152718950/64c1b19f-a452-4837-b189-f480e3be0786)
@@ -20,3 +20,5 @@ Outro problema foi que o acelerometro não possuia um range de aferimento alto, 
 ![Perfeita_1](https://github.com/mario-akira/GPSDataTracker-AcceleroDatameter/assets/152718950/3a8b86d5-0aff-47a3-b16f-c44b02fb4713)
 
 Por fim, foi possível comparar os dados de posição da pista e velocidade entre todas as voltar para demonstrar o melhor rendimento possível do piloto na corrida.
+
+Os dados foram obtidos durante uma seção de treino e corrida no Kartódromo ECPA de Piracicaba em 2022 durante um momento de confraternização entre amigos e familiares. Todos os códigos de programação foram feitos em Python e a análise dos dados obtidos foi feita no Matlab.
