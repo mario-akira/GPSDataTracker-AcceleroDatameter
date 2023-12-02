@@ -7,7 +7,7 @@ O objetivo deste projeto foi implementar em um Raspberry pi 1 um sistema para le
 
 ![IMG_20220603_085907](https://github.com/mario-akira/GPSDataTracker-AcceleroDatameter/assets/152718950/1776d57b-dc4d-4366-9cea-0949be7e9f77)
 
-Utilizando um raspberry pi 1, foi feita a leitura e o armazenamento dos dados de um sensor gps NEO6M e de um acelerometro MPU6050.
+Utilizando um raspberry pi 1, foi feita a leitura e o armazenamento dos dados de um sensor gps NEO6M e de um acelerometro MPU6050. Para alimentação do sistema, foi utilizado um power bank para facilitar a implementação.
 
 ![0](https://github.com/mario-akira/GPSDataTracker-AcceleroDatameter/assets/152718950/64c1b19f-a452-4837-b189-f480e3be0786)
 
