@@ -1,6 +1,13 @@
 # GPSDataTracker-AcceleroDatameter
+
+![IMG_20220603_085638](https://github.com/mario-akira/GPSDataTracker-AcceleroDatameter/assets/152718950/39e69449-f0f7-42bc-8c26-003719c330ab)
+
 O objetivo deste projeto foi implementar em um Raspberry pi 1 um sistema para leitura e armazenamento dos dados de sensores de gps e aceleração. Em seguida, com os dados em mãos, seriam separados os dados volta a volta do treino e da corrida para fazer a análise de como melhorar o rendimento do piloto. 
 
+
+![IMG_20220603_085907](https://github.com/mario-akira/GPSDataTracker-AcceleroDatameter/assets/152718950/1776d57b-dc4d-4366-9cea-0949be7e9f77)
+
+Utilizando um raspberry pi 1, foi feita a leitura e o armazenamento dos dados de um sensor gps NEO6M e de um acelerometro MPU6050.
 
 ![0](https://github.com/mario-akira/GPSDataTracker-AcceleroDatameter/assets/152718950/64c1b19f-a452-4837-b189-f480e3be0786)
 
