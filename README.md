@@ -9,4 +9,5 @@ Como sou estudante e estava utilizando bastante o software Matlab nos estudos da
 
 ![1](https://github.com/mario-akira/GPSDataTracker-AcceleroDatameter/assets/152718950/f14869c1-ef9e-4f2e-8477-ed9d00024d1e)
 Em seguida, fiz a separação de volta a volta para verificar o rendimento separadamente.
+
 ![11](https://github.com/mario-akira/GPSDataTracker-AcceleroDatameter/assets/152718950/ebcf02ef-eaea-43a4-a0c0-c7a95494019e)
