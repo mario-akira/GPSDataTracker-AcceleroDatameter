@@ -4,6 +4,8 @@
 
 O objetivo deste projeto foi implementar em um Raspberry pi 1 um sistema para leitura e armazenamento dos dados de sensores de gps e aceleração. Em seguida, com os dados em mãos, seriam separados os dados volta a volta do treino e da corrida para fazer a análise de como melhorar o rendimento do piloto. 
 
+Link para visualização de parte da corrida de obtenção dos dados:https://youtu.be/D9IgxmnsjG0
+
 
 ![IMG_20220603_085907](https://github.com/mario-akira/GPSDataTracker-AcceleroDatameter/assets/152718950/1776d57b-dc4d-4366-9cea-0949be7e9f77)
 
